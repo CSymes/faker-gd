@@ -1,0 +1,8 @@
+class_name FakerEnFinanceCreditCardJcb
+extends RefCounted
+
+const DATA = [
+	"3528-####-####-###L",
+	"3529-####-####-###L",
+	"35[3-8]#-####-####-###L"
+]

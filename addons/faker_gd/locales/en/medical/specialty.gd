@@ -1,0 +1,38 @@
+class_name FakerEnMedicalSpecialty
+extends RefCounted
+
+const DATA = [
+	"Allergy and Immunology",
+	"Anesthesiology",
+	"Cardiology",
+	"Critical Care",
+	"Dermatology",
+	"Emergency Medicine",
+	"Endocrinology",
+	"Family Medicine",
+	"Gastroenterology",
+	"General Surgery",
+	"Gynecology",
+	"Hematology",
+	"Infectious Disease",
+	"Internal Medicine",
+	"Nephrology",
+	"Neurology",
+	"Neurosurgery",
+	"Obstetrics",
+	"Oncology",
+	"Ophthalmology",
+	"Orthopedics",
+	"Otolaryngology",
+	"Pain Medicine",
+	"Pathology",
+	"Pediatrics",
+	"Plastic Surgery",
+	"Psychiatry",
+	"Pulmonology",
+	"Radiology",
+	"Rheumatology",
+	"Urology",
+	"Vascular Medicine",
+	"Vascular Surgery"
+]

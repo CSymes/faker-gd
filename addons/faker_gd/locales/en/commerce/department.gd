@@ -1,0 +1,27 @@
+class_name FakerEnCommerceDepartment
+extends RefCounted
+
+const DATA = [
+	"Automotive",
+	"Baby",
+	"Beauty",
+	"Books",
+	"Clothing",
+	"Computers",
+	"Electronics",
+	"Games",
+	"Garden",
+	"Grocery",
+	"Health",
+	"Home",
+	"Industrial",
+	"Jewelry",
+	"Kids",
+	"Movies",
+	"Music",
+	"Outdoors",
+	"Shoes",
+	"Sports",
+	"Tools",
+	"Toys"
+]

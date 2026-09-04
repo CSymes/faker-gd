@@ -1,0 +1,33 @@
+class_name FakerEnDateMonth
+extends RefCounted
+
+const DATA = {
+	"wide": [
+		"April",
+		"August",
+		"December",
+		"February",
+		"January",
+		"July",
+		"June",
+		"March",
+		"May",
+		"November",
+		"October",
+		"September"
+	],
+	"abbr": [
+		"Apr",
+		"Aug",
+		"Dec",
+		"Feb",
+		"Jan",
+		"Jul",
+		"Jun",
+		"Mar",
+		"May",
+		"Nov",
+		"Oct",
+		"Sep"
+	]
+}

@@ -1,0 +1,36 @@
+class_name FakerEnColorHuman
+extends RefCounted
+
+const DATA = [
+	"azure",
+	"black",
+	"blue",
+	"cyan",
+	"fuchsia",
+	"gold",
+	"green",
+	"grey",
+	"indigo",
+	"ivory",
+	"lavender",
+	"lime",
+	"magenta",
+	"maroon",
+	"mint green",
+	"olive",
+	"orange",
+	"orchid",
+	"pink",
+	"plum",
+	"purple",
+	"red",
+	"salmon",
+	"silver",
+	"sky blue",
+	"tan",
+	"teal",
+	"turquoise",
+	"violet",
+	"white",
+	"yellow"
+]

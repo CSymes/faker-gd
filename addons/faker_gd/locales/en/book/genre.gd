@@ -1,0 +1,30 @@
+class_name FakerEnBookGenre
+extends RefCounted
+
+const DATA = [
+	"Adventure",
+	"Biography",
+	"Business",
+	"Children's Literature",
+	"Classic",
+	"Comedy",
+	"Comic",
+	"Detective",
+	"Drama",
+	"Fantasy",
+	"Graphic Novel",
+	"Historical Fiction",
+	"Horror",
+	"Memoir",
+	"Mystery",
+	"Mythology",
+	"Philosophy",
+	"Poetry",
+	"Psychology",
+	"Religion",
+	"Romance",
+	"Science Fiction",
+	"Thriller",
+	"Western",
+	"Young Adult"
+]

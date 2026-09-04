@@ -1,0 +1,12 @@
+class_name FakerEnAnimalLion
+extends RefCounted
+
+const DATA = [
+	"Asiatic Lion",
+	"Barbary Lion",
+	"Cape lion",
+	"Masai Lion",
+	"Northeast Congo Lion",
+	"Transvaal lion",
+	"West African Lion"
+]
