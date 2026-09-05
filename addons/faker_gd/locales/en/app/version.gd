@@ -1,4 +1,3 @@
-class_name FakerEnAppVersion
 extends RefCounted
 
 const DATA = [

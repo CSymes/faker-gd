@@ -1,4 +1,3 @@
-class_name FakerEnLocationStreetSuffix
 extends RefCounted
 
 const DATA = [

@@ -1,4 +1,3 @@
-class_name FakerEnLocationLanguage
 extends RefCounted
 
 const DATA = [

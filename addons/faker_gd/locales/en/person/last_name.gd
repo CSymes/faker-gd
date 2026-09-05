@@ -1,4 +1,3 @@
-class_name FakerEnPersonLastName
 extends RefCounted
 
 const DATA = {

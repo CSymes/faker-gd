@@ -1,4 +1,3 @@
-class_name FakerEnDatabaseColumn
 extends RefCounted
 
 const DATA = [

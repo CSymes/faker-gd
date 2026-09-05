@@ -1,4 +1,3 @@
-class_name FakerEnPersonJobType
 extends RefCounted
 
 const DATA = [

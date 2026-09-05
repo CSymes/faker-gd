@@ -1,4 +1,3 @@
-class_name FakerEnMedicalDrugName
 extends RefCounted
 
 const DATA = [

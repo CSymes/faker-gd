@@ -1,4 +1,3 @@
-class_name FakerEnMusic
 extends RefCounted
 
 const ALBUM_DATA = preload("res://addons/faker_gd/locales/en/music/album.gd").DATA

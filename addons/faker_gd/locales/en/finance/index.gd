@@ -1,4 +1,3 @@
-class_name FakerEnFinance
 extends RefCounted
 
 const ACCOUNT_TYPE_DATA = preload("res://addons/faker_gd/locales/en/finance/account_type.gd").DATA

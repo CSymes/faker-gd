@@ -1,4 +1,3 @@
-class_name FakerEnAnimal
 extends RefCounted
 
 const BEAR_DATA = preload("res://addons/faker_gd/locales/en/animal/bear.gd").DATA

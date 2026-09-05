@@ -1,4 +1,3 @@
-class_name FakerEn
 extends RefCounted
 
 const AIRLINE_DATA = preload("res://addons/faker_gd/locales/en/airline/index.gd").DATA

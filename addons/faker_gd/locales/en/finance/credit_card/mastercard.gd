@@ -1,4 +1,3 @@
-class_name FakerEnFinanceCreditCardMastercard
 extends RefCounted
 
 const DATA = [

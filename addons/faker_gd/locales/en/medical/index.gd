@@ -1,4 +1,3 @@
-class_name FakerEnMedical
 extends RefCounted
 
 const ALLERGEN_DATA = preload("res://addons/faker_gd/locales/en/medical/allergen.gd").DATA

@@ -1,4 +1,3 @@
-class_name FakerEnFinanceCurrency
 extends RefCounted
 
 const DATA = [

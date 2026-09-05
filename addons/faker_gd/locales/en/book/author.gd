@@ -1,4 +1,3 @@
-class_name FakerEnBookAuthor
 extends RefCounted
 
 const DATA = [

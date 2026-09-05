@@ -1,4 +1,3 @@
-class_name FakerEnWordInterjection
 extends RefCounted
 
 const DATA = [

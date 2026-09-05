@@ -1,4 +1,3 @@
-class_name FakerEnInternet
 extends RefCounted
 
 const DOMAIN_SUFFIX_DATA = preload("res://addons/faker_gd/locales/en/internet/domain_suffix.gd").DATA

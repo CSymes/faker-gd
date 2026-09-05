@@ -1,4 +1,3 @@
-class_name FakerEnDateWeekday
 extends RefCounted
 
 const DATA = {

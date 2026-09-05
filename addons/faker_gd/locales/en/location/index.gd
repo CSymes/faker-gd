@@ -1,4 +1,3 @@
-class_name FakerEnLocation
 extends RefCounted
 
 const BUILDING_NUMBER_DATA = preload("res://addons/faker_gd/locales/en/location/building_number.gd").DATA

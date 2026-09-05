@@ -1,4 +1,3 @@
-class_name FakerEnLocationPostalAddress
 extends RefCounted
 
 const DATA = [

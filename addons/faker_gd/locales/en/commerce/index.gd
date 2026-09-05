@@ -1,4 +1,3 @@
-class_name FakerEnCommerce
 extends RefCounted
 
 const DEPARTMENT_DATA = preload("res://addons/faker_gd/locales/en/commerce/department.gd").DATA

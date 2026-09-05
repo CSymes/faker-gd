@@ -1,4 +1,3 @@
-class_name FakerEnTeamCreature
 extends RefCounted
 
 const DATA = [

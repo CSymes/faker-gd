@@ -1,4 +1,3 @@
-class_name FakerEnScienceUnit
 extends RefCounted
 
 const DATA = [

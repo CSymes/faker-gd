@@ -1,4 +1,3 @@
-class_name FakerEnDateMonth
 extends RefCounted
 
 const DATA = {

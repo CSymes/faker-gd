@@ -1,4 +1,3 @@
-class_name FakerEnFoodEthnicCategory
 extends RefCounted
 
 const DATA = [

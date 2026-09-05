@@ -1,4 +1,3 @@
-class_name FakerEnPhoneNumberFormatHuman
 extends RefCounted
 
 const DATA = [

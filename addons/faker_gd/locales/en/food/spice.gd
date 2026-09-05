@@ -1,4 +1,3 @@
-class_name FakerEnFoodSpice
 extends RefCounted
 
 const DATA = [

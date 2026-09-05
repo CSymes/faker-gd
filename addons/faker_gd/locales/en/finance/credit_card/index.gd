@@ -1,4 +1,3 @@
-class_name FakerEnFinanceCreditCard
 extends RefCounted
 
 const AMERICAN_EXPRESS_DATA = preload("res://addons/faker_gd/locales/en/finance/credit_card/american_express.gd").DATA

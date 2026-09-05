@@ -1,4 +1,3 @@
-class_name FakerEnHacker
 extends RefCounted
 
 const ADJECTIVE_DATA = preload("res://addons/faker_gd/locales/en/hacker/adjective.gd").DATA

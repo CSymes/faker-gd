@@ -1,4 +1,3 @@
-class_name FakerEnFoodDescriptionPattern
 extends RefCounted
 
 const DATA = [

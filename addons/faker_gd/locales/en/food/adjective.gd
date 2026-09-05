@@ -1,4 +1,3 @@
-class_name FakerEnFoodAdjective
 extends RefCounted
 
 const DATA = [

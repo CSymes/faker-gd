@@ -1,4 +1,3 @@
-class_name FakerEnBookFormat
 extends RefCounted
 
 const DATA = [

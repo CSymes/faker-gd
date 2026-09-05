@@ -1,4 +1,3 @@
-class_name FakerEnMusicGenre
 extends RefCounted
 
 const DATA = [

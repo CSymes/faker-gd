@@ -1,4 +1,3 @@
-class_name FakerEnCompanyAdjective
 extends RefCounted
 
 const DATA = [

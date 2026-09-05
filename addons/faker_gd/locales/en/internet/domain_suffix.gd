@@ -1,4 +1,3 @@
-class_name FakerEnInternetDomainSuffix
 extends RefCounted
 
 const DATA = [

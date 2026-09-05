@@ -1,4 +1,3 @@
-class_name FakerEnLocationDirection
 extends RefCounted
 
 const DATA = {

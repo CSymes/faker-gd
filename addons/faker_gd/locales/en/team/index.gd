@@ -1,4 +1,3 @@
-class_name FakerEnTeam
 extends RefCounted
 
 const CREATURE_DATA = preload("res://addons/faker_gd/locales/en/team/creature.gd").DATA

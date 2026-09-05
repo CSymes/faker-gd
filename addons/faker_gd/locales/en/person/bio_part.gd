@@ -1,4 +1,3 @@
-class_name FakerEnPersonBioPart
 extends RefCounted
 
 const DATA = [

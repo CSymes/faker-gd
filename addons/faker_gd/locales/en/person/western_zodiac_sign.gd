@@ -1,4 +1,3 @@
-class_name FakerEnPersonWesternZodiacSign
 extends RefCounted
 
 const DATA = [

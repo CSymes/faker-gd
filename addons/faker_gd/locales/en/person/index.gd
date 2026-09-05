@@ -1,4 +1,3 @@
-class_name FakerEnPerson
 extends RefCounted
 
 const BIO_PART_DATA = preload("res://addons/faker_gd/locales/en/person/bio_part.gd").DATA

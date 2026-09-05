@@ -1,4 +1,3 @@
-class_name FakerEnHackerPhrase
 extends RefCounted
 
 const DATA = [

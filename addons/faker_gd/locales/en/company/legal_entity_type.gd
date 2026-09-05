@@ -1,4 +1,3 @@
-class_name FakerEnCompanyLegalEntityType
 extends RefCounted
 
 const DATA = [

@@ -1,4 +1,3 @@
-class_name FakerEnBook
 extends RefCounted
 
 const AUTHOR_DATA = preload("res://addons/faker_gd/locales/en/book/author.gd").DATA

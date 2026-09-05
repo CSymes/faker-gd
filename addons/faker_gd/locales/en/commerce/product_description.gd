@@ -1,4 +1,3 @@
-class_name FakerEnCommerceProductDescription
 extends RefCounted
 
 const DATA = [

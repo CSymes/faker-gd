@@ -1,4 +1,3 @@
-class_name FakerEnScienceChemicalElement
 extends RefCounted
 
 const DATA = [

@@ -1,4 +1,3 @@
-class_name FakerEnDatabase
 extends RefCounted
 
 const COLUMN_DATA = preload("res://addons/faker_gd/locales/en/database/column.gd").DATA

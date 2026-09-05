@@ -1,4 +1,3 @@
-class_name FakerEnApp
 extends RefCounted
 
 const AUTHOR_DATA = preload("res://addons/faker_gd/locales/en/app/author.gd").DATA

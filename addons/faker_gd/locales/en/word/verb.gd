@@ -1,4 +1,3 @@
-class_name FakerEnWordVerb
 extends RefCounted
 
 const DATA = [

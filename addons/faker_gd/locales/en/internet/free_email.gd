@@ -1,4 +1,3 @@
-class_name FakerEnInternetFreeEmail
 extends RefCounted
 
 const DATA = [

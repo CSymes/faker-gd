@@ -1,4 +1,3 @@
-class_name FakerEnPhoneNumberFormat
 extends RefCounted
 
 const HUMAN_DATA = preload("res://addons/faker_gd/locales/en/phone_number/format/human.gd").DATA

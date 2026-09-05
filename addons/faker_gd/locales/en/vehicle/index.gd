@@ -1,4 +1,3 @@
-class_name FakerEnVehicle
 extends RefCounted
 
 const BICYCLE_TYPE_DATA = preload("res://addons/faker_gd/locales/en/vehicle/bicycle_type.gd").DATA

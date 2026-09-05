@@ -1,4 +1,3 @@
-class_name FakerEnAirlineAirport
 extends RefCounted
 
 const DATA = [

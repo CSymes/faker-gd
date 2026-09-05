@@ -1,4 +1,3 @@
-class_name FakerEnCompanyBuzzVerb
 extends RefCounted
 
 const DATA = [

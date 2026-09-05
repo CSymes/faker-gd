@@ -1,4 +1,3 @@
-class_name FakerEnVehicleType
 extends RefCounted
 
 const DATA = [

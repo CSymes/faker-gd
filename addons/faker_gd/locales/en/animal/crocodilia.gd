@@ -1,4 +1,3 @@
-class_name FakerEnAnimalCrocodilia
 extends RefCounted
 
 const DATA = [

@@ -1,4 +1,3 @@
-class_name FakerEnMetadata
 extends RefCounted
 
 const DATA = {

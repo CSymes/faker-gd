@@ -1,4 +1,3 @@
-class_name FakerEnCompanyBuzzNoun
 extends RefCounted
 
 const DATA = [

@@ -1,4 +1,3 @@
-class_name FakerEnMedicalDepartment
 extends RefCounted
 
 const DATA = [

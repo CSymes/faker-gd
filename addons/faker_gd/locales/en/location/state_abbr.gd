@@ -1,4 +1,3 @@
-class_name FakerEnLocationStateAbbr
 extends RefCounted
 
 const DATA = [

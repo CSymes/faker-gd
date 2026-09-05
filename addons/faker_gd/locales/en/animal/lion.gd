@@ -1,4 +1,3 @@
-class_name FakerEnAnimalLion
 extends RefCounted
 
 const DATA = [

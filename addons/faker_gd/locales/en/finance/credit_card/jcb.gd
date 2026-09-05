@@ -1,4 +1,3 @@
-class_name FakerEnFinanceCreditCardJcb
 extends RefCounted
 
 const DATA = [

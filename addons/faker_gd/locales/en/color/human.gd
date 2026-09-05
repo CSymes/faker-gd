@@ -1,4 +1,3 @@
-class_name FakerEnColorHuman
 extends RefCounted
 
 const DATA = [

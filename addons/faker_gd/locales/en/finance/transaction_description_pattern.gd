@@ -1,4 +1,3 @@
-class_name FakerEnFinanceTransactionDescriptionPattern
 extends RefCounted
 
 const DATA = [

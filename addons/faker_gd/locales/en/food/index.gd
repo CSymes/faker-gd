@@ -1,4 +1,3 @@
-class_name FakerEnFood
 extends RefCounted
 
 const ADJECTIVE_DATA = preload("res://addons/faker_gd/locales/en/food/adjective.gd").DATA

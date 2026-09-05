@@ -1,4 +1,3 @@
-class_name FakerEnDate
 extends RefCounted
 
 const MONTH_DATA = preload("res://addons/faker_gd/locales/en/date/month.gd").DATA

@@ -16,7 +16,7 @@ config/icon="res://icon.svg"
 
 [autoload]
 
-FakerGd="*uid://clb3qroey5w4x"
+FakerGd="*uid://d35pcjsjmqau7"
 
 [debug]
 
@@ -37,6 +37,10 @@ project/assembly_name="FakerGd"
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/faker_gd/plugin.cfg")
+
+[faker_gd]
+
+default_locale="en"
 
 [physics]
 
