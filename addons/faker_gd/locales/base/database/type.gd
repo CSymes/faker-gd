@@ -1,0 +1,28 @@
+extends RefCounted
+
+const DATA = [
+	"bigint",
+	"binary",
+	"bit",
+	"blob",
+	"boolean",
+	"date",
+	"datetime",
+	"decimal",
+	"double",
+	"enum",
+	"float",
+	"geometry",
+	"int",
+	"mediumint",
+	"point",
+	"real",
+	"serial",
+	"set",
+	"smallint",
+	"text",
+	"time",
+	"timestamp",
+	"tinyint",
+	"varchar",
+]
